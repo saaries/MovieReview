@@ -1,26 +1,10 @@
-<<<<<<< HEAD
-# MovieReview
-=======
-The MIT License (MIT)
+Homework for privacy enhancing Technologies (Chap smart contract).
 
-Copyright (c) 2018 Truffle
+This is a DApp based on smart contract and runs on a local blockchain, where people can write movie reviews.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Report: the pdf file; Demo of environment set up: the mp4 vedio
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+What is needed? Ganache, MetaMask, Solidity IDE(Pycharm recommend).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
->>>>>>> first commit
+This DApp idea:
+![img](https://github.com/saaries/MovieReview/structure.png)
