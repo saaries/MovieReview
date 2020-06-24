@@ -7,4 +7,4 @@ Report: the pdf file; Demo of environment set up: the mp4 vedio
 What is needed? Ganache, MetaMask, Solidity IDE(Pycharm recommend).
 
 This DApp idea:
-![img](https://github.com/saaries/MovieReview/structure.png)
+![img](https://github.com/saaries/MovieReview/blob/master/structure.png)
