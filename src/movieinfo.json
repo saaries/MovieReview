@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "name": "The Shawshank Redemption (1994)",
+    "picture": "images/shaw.png",
+    "rating": "9.3/10",
+    "summary": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "cast": "Tim Robbins (Andy Dufresne); Bob Gunton (Samuel Norton)."
+  },
+  {
+    "id": 1,
+    "name": "Schindler's List (1993)",
+    "picture": "images/schid.png",
+    "rating": "8.9/10",
+    "summary": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "cast": "Liam Neeson(Oskar Schindler); Ben Kingsley (Itzhak Stern)"
+  },
+  {
+    "id": 2,
+    "name": "Forrest Gump (1994)",
+    "picture": "images/forrest.png",
+    "rating": "8.8/10",
+    "summary": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "cast": "Tom Hanks (Forrest Gump); Rebecca Williams (Nurse at Park Bench)"
+  },
+  {
+    "id": 3,
+    "name": "a vita è bella (1997)",
+    "picture": "images/avida.png",
+    "rating": "8.6/10",
+    "summary": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "cast": "Roberto Benigni (Guido); Nicoletta Braschi (Dora)"
+  }
+]
+
